@@ -24,12 +24,13 @@ Olá! Sou o Victor, um estudante de programação motivado a aprender cada vez m
 </p>
 
 ### 🚀 Projetos em Destaque
-- 🌿 **[JCF-Jardinagem](https://github.com/VictorBFontes/JCF-Jardinagem):** O meu projeto principal, focado no desenvolvimento de soluções e gestão para o setor de jardinagem.
-- 🧵 **[Recostura](https://github.com/Recostura/FrontRecostura):** Projeto colaborativo desenvolvido dentro da organização Recostura.
+- 🌿 **[JCF-Jardinagem](https://github.com/VictorBFontes/JCF-Jardinagem):** Um projeto realizado no PROA, focado no desenvolvimento de soluções e gestão para o setor de jardinagem. É um site que fiz com muito amor para a empresa do meu pai.
+- 🧵 **[Recostura](https://github.com/Recostura/FrontRecostura):** Projeto colaborativo desenvolvido dentro do instituto PROA como projeto de finalização de curso.
 
 ### 🎮 Curiosidades
 - 🕹️ Adoro jogar Minecraft e mergulhar em jogos de RPG como Diablo 3 e 4.
 - 🏀 Fã de basquetebol e frequentador assíduo da academia.
+- 💙 Proano com orgulho!
 
 ### 🌐 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-victor-barros-fontes/)
@@ -53,8 +54,8 @@ Hello! I'm Victor, a programming student driven to learn more and more. I use my
 </p>
 
 ### 🚀 Featured Projects
-- 🌿 **[JCF-Jardinagem](https://github.com/VictorBFontes/JCF-Jardinagem):** My main project, focused on providing solutions and management for gardening businesses.
-- 🧵 **[Recostura](https://github.com/Recostura/FrontRecostura):** A collaborative project developed within the Recostura organization.
+- 🌿 **[JCF-Jardinagem](https://github.com/VictorBFontes/JCF-Jardinagem):** This project, completed during the PROA course, focused on developing solutions and management for the gardening sector. It's a website I created with great care for my father's company.
+- 🧵 **[Recostura](https://github.com/Recostura/FrontRecostura):** A collaborative project developed within the PROA institute as a final course project.
 
 ### 🎮 Fun Facts
 - 🕹️ I love playing Minecraft and diving into RPG games like Diablo 3 and 4.
