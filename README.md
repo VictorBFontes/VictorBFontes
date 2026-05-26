@@ -1,79 +1,69 @@
-# 👋 Hello, I'm Victor!
+# 👋 Hello, I'm Victor! / Olá, eu sou o Victor!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorBFontes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Victor's GitHub stats" height="160" />
+</p>
+
+---
 
 ## 🇧🇷 Português
 
-Olá! Sou o Victor, um estudante de programação querendo cada vez mais aprender. Pretendo usar meu git tanto para projetos profissionais quanto educacionais. Seja muito bem vindo ao meu perfil!
-
----
+Olá! Sou o Victor, um estudante de programação motivado a aprender cada vez mais. Utilizo o meu GitHub tanto para o desenvolvimento de projetos profissionais quanto educacionais. Seja muito bem-vindo ao meu perfil!
 
 ### 🧑‍💻 Sobre Mim
+- 🎓 **Estudante** apaixonado por tecnologia e focado em evolução contínua.
+- 🌱 Sempre explorando novos frameworks, ferramentas e boas práticas de código.
 
-- 🎓 **Estudante** apaixonado por tecnologia e aprendizado contínuo
-- 💻 **Principais Linguagens:** JavaScript, Java e um pouco de Python
-- 🌱 Sempre explorando novos frameworks e ferramentas
-
----
+### 🛠️ Tecnologias & Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ### 🚀 Projetos em Destaque
-
-- [JCF-Jardinagem](https://github.com/VictorBFontes/JCF-Jardinagem): Meu principal projeto, focado em soluções e gestão de jardinagem.
-- [Recostura](https://github.com/Recostura/FrontRecostura): Projeto colaborativo na organização Recostura.
-
----
-
-### 🌐 Redes Sociais
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-victor-barros-fontes/)](https://www.linkedin.com/in/jose-victor-barros-fontes/)
-
----
+- 🌿 **[JCF-Jardinagem](https://github.com/VictorBFontes/JCF-Jardinagem):** O meu projeto principal, focado no desenvolvimento de soluções e gestão para o setor de jardinagem.
+- 🧵 **[Recostura](https://github.com/Recostura/FrontRecostura):** Projeto colaborativo desenvolvido dentro da organização Recostura.
 
 ### 🎮 Curiosidades
+- 🕹️ Adoro jogar Minecraft e mergulhar em jogos de RPG como Diablo 3 e 4.
+- 🏀 Fã de basquetebol e frequentador assíduo da academia.
 
-- Adoro jogar Minecraft e jogos de RPG como Diablo 3 e 4
-- Fã de basquete e frequentador assíduo da academia
+### 🌐 Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-victor-barros-fontes/)
 
 ---
 
 ## 🇬🇧 English
 
-Hello! I'm Victor, a programming student who wants to learn more and more. I intend to use my git for both professional and educational projects. Welcome to my profile!
+Hello! I'm Victor, a programming student driven to learn more and more. I use my GitHub for both professional and educational projects. Welcome to my profile!
+
+### 🧑‍💻 About Me
+- 🎓 **Student** passionate about technology and continuous learning.
+- 🌱 Always exploring new frameworks, tools, and coding best practices.
+
+### 🛠️ Technologies & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### 🚀 Featured Projects
+- 🌿 **[JCF-Jardinagem](https://github.com/VictorBFontes/JCF-Jardinagem):** My main project, focused on providing solutions and management for gardening businesses.
+- 🧵 **[Recostura](https://github.com/Recostura/FrontRecostura):** A collaborative project developed within the Recostura organization.
+
+### 🎮 Fun Facts
+- 🕹️ I love playing Minecraft and diving into RPG games like Diablo 3 and 4.
+- 🏀 Basketball fan and a regular gym-goer.
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-victor-barros-fontes/)
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🎓 **Student** passionate about technology and continuous learning
-- 💻 **Main Languages:** JavaScript, Java, and a little bit of Python
-- 🌱 Always exploring new frameworks and tools
-
----
-
-## 🚀 Featured Projects
-
-- [JCF-Jardinagem](https://github.com/VictorBFontes/JCF-Jardinagem): My main project focused on gardening solutions and management.
-- [Recostura](https://github.com/Recostura/FrontRecostura): A collaborative project in the Recostura organization.
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-victor-barros-fontes/)](https://www.linkedin.com/in/jose-victor-barros-fontes/)
-
----
-
-## 🎮 Fun Facts
-
-- I love playing Minecraft and RPG games like Diablo 3 and 4
-- A basketball fan and regular gym-goer
-
----
-
-## 📊 GitHub Stats
-
-![VictorBFontes's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorBFontes&show_icons=true&theme=default)
-
----
-
-
-
-> :sparkles: _Thanks for visiting!_ / _Obrigado pela visita!_
+<p align="center">
+  ✨ <i>Thanks for visiting! / Obrigado pela visita!</i> ✨
+</p>
