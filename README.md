@@ -1,7 +1,8 @@
 # 👋 Hello, I'm Victor! / Olá, eu sou o Victor!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorBFontes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Victor's GitHub stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorBFontes&theme=tokyonight" alt="GitHub Streak Stats" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorBFontes&theme=tokyonight" alt="Linguagens mais usadas" height="160" />
 </p>
 
 ---
