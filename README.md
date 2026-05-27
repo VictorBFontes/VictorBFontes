@@ -74,3 +74,7 @@ Hello! I'm Victor, a programming student driven to learn more and expand my hori
 <p align="center">
   ✨ <i>Thanks for visiting! / Obrigado pela visita!</i> ✨
 </p>
+
+<p align="center">
+  <img src="[assets/radahn.webp](https://preview.redd.it/radahn-art-i-did-v0-12plbv0nx6xe1.jpg?width=1080&crop=smart&auto=webp&s=1293794c3cb58280e9b542c5e147ecf82746f41d)" alt="General Radahn Art" width="600"/>
+</p>
