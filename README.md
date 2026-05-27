@@ -5,9 +5,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorBFontes&theme=tokyonight" alt="Linguagens mais usadas" height="160" />
 </p>
 
+<!-- Bloco Unificado: Hakari apoiado perfeitamente na linha -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" />
+  <img alt="67afc47bf542d4f60444720d47c783bc-removebg-preview (1)" src="https://github.com/user-attachments/assets/410092ba-619b-420f-8cb8-af64d9b6c0cb" alt="Hakari" width="160" /><br />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
+
 
 ## 🇧🇷 Português
 
@@ -73,8 +76,4 @@ Hello! I'm Victor, a programming student driven to learn more and expand my hori
 
 <p align="center">
   ✨ <i>Thanks for visiting! / Obrigado pela visita!</i> ✨
-</p>
-
-<p align="center">
-  <img src="[assets/radahn.webp](https://preview.redd.it/radahn-art-i-did-v0-12plbv0nx6xe1.jpg?width=1080&crop=smart&auto=webp&s=1293794c3cb58280e9b542c5e147ecf82746f41d)" alt="General Radahn Art" width="600"/>
 </p>
